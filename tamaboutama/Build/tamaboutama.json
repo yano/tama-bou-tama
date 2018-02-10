@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "tamaboutama.data.unityweb",
+"asmCodeUrl": "tamaboutama.asm.code.unityweb",
+"asmMemoryUrl": "tamaboutama.asm.memory.unityweb",
+"asmFrameworkUrl": "tamaboutama.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
